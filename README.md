@@ -46,7 +46,7 @@ npm run dev
 ```
 
 ## 🌐Live Demo
-https://clima-cast-weather.onrender.app
+https://clima-cast-weather.netlify.app
 
 ## 💡 What I Learned
 Integrating REST APIs in React
