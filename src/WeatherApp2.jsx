@@ -64,10 +64,10 @@ export default function WeatherApp2() {
       });
 
        
-      
+     //for first days info
     result.upcoming = Array.from(forecastMap.values()).slice(0, 5);
 
-      setWeatherData(result);
+    setWeatherData(result);
     } catch (error) {
          setError(<Alert severity="error">City Not Found.</Alert>)
          setWeatherData(null);
