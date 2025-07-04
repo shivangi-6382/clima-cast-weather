@@ -7,20 +7,11 @@
 .search-box input {
   padding: 0.8rem 1rem;
   font-size: 1rem;
-  border-radius: 10px 0 0 10px;
+  border-radius: 10px 10px 10px 10px;
   border: 1px solid #ccc;
   outline: none;
 }
 
-.search-box button {
-  padding: 0.8rem 1.2rem;
-  background-color: #0d47a1;
-  color: white;
-  font-weight: bold;
-  border: none;
-  border-radius: 0 10px 10px 0;
-  cursor: pointer;
-}
 .btn {
   background: linear-gradient(to right, #2196f3, #6ec6ff);
   border: none;
