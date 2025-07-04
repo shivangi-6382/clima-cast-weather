@@ -1,7 +1,4 @@
- 
 import './App.css'
-import { Container } from '@mui/material';
- 
 import WeatherApp2 from './WeatherApp2';
  
 
