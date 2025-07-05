@@ -66,6 +66,10 @@ Feel free to use, modify, and distribute it with attribution.
 
 See the [LICENSE](./LICENSE) file for more details.
 
+## Data Source  
+This project uses weather data from [OpenWeatherMap](https://openweathermap.org/), available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+
 
 
 
